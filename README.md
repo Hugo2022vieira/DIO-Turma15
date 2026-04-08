@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Hugo Vieira!
 
-🎓 Embaixador da DIO Campus Expert – Turma 14  
+🎓 Embaixador da DIO Campus Expert – Turma 15  
 💻 Desenvolvedor em formação com foco em Front-end, Back-end, Dados, entre outros.  
 🚀 Apaixonado por tecnologia, inovação e aprendizado contínuo.
 
@@ -16,7 +16,7 @@
 
 ## 📚 Formações
 
-- DIO Campus Expert – Turma 14.
+- DIO Campus Expert – Turma 15.
 - Formação Lógica de Programação – DIO;
 - Desenvolvimento Web Full Stack;
 - Inteligência Artificial com Copilot.
